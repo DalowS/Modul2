@@ -1,0 +1,15 @@
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\bin\Debug\net6.0\BtoiniSistemi.exe
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\bin\Debug\net6.0\BtoiniSistemi.deps.json
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\bin\Debug\net6.0\BtoiniSistemi.runtimeconfig.json
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\bin\Debug\net6.0\BtoiniSistemi.dll
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\bin\Debug\net6.0\BtoiniSistemi.pdb
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\obj\Debug\net6.0\BtoiniSistemi.csproj.AssemblyReference.cache
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\obj\Debug\net6.0\BtoiniSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\obj\Debug\net6.0\BtoiniSistemi.AssemblyInfoInputs.cache
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\obj\Debug\net6.0\BtoiniSistemi.AssemblyInfo.cs
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\obj\Debug\net6.0\BtoiniSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\obj\Debug\net6.0\BtoiniSistemi.dll
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\obj\Debug\net6.0\refint\BtoiniSistemi.dll
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\obj\Debug\net6.0\BtoiniSistemi.pdb
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\obj\Debug\net6.0\BtoiniSistemi.genruntimeconfig.cache
+C:\Users\Dalov\source\repos\BtoiniSistemi\BtoiniSistemi\obj\Debug\net6.0\ref\BtoiniSistemi.dll
